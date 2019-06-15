@@ -6,10 +6,10 @@
 name: BAMSOM
 
 # Short bio or description (displayed in the header)
-description: ML related stuff
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/donkey3d.png
+avatar: /images/donkey3d.png
 
 #
 # Flags below are optional
