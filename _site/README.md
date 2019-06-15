@@ -1,1 +1,0 @@
-# bamsom.github.io
